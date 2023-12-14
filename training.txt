@@ -1,0 +1,20 @@
+68 104 44 Green
+61 90 50 Green
+46 77 14 Green
+67 100 37 Green
+62 92 45 Green
+114 133	49 Light Green
+100	121	29 Light Green
+112	132	57 Light Green
+78 96 20 Light Green
+112	127	51 Light Green
+137	136	66 Yellow
+141 145	63 Yellow
+164	168	103	Yellow
+123	127	56 Yellow
+122	118	50 Yellow
+80 54 34 Brown
+144	116	89 Brown
+97 76 59 Brown
+96 72 56 Brown
+100	80 60 Brown
